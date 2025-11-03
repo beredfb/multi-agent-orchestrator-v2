@@ -1,0 +1,14 @@
+{
+  "agent": "critic",
+  "model": "openai/gpt-4o-mini",
+  "provider": "openai",
+  "prompt": "Test message",
+  "response": "",
+  "duration_ms": 1133.4603670002252,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_tokens": 0,
+  "timestamp": "2025-11-03T19:14:33.809369",
+  "error": "litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable",
+  "estimated_cost_usd": 0.0
+}

@@ -1,0 +1,14 @@
+{
+  "agent": "builder",
+  "model": "anthropic/claude-3-5-sonnet-20241022",
+  "provider": "anthropic",
+  "prompt": "Merhaba! Kısa bir test mesajı.",
+  "response": "",
+  "duration_ms": 1664.4360859972949,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_tokens": 0,
+  "timestamp": "2025-11-03T19:14:25.388562",
+  "error": "litellm.BadRequestError: AnthropicException - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CUmVMtcjkc5poFuUMpfyt\"}",
+  "estimated_cost_usd": 0.0
+}

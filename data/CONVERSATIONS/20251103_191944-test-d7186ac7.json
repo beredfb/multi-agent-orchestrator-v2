@@ -1,0 +1,12 @@
+{
+  "agent": "test",
+  "model": "test/model",
+  "provider": "test",
+  "prompt": "My API key is sk-secret123",
+  "response": "ANTHROPIC_API_KEY=***MASKED***",
+  "duration_ms": 100.0,
+  "prompt_tokens": 10,
+  "completion_tokens": 5,
+  "total_tokens": 15,
+  "estimated_cost_usd": 2.5000000000000005e-05
+}
